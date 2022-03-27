@@ -1,4 +1,4 @@
-title:world
+title:wishlist
 
 // Falling Guillotine - God Roll (god-pve)
 //notes: tags:god-pve
