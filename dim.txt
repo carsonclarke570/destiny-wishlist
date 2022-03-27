@@ -3,3 +3,11 @@ title:wishlist
 // Falling Guillotine - God Roll (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=614426548&perks=2827049491,269888150,1749209109,3913600130
+
+// Borrowed Time - God Roll (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=875848769&perks=4090651448,1885400500,2779035018,3425386926
+
+// Bottom Dollar - God Roll (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1046651176&perks=1482024992,106909392,1168162263,2848615171
